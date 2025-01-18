@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CryptoList</string>
+    <string name="action_back">Back</string>
+    <string name="network_error">Failed to load latest data, please check your internet connection</string>
+    <string name="something_went_wrong">Something went wrong, failed to load latest data, please try again later</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="insert_data">Insert Data</string>
+    <string name="show_crypto">Show Crypto</string>
+    <string name="show_fiat">Show Fiat</string>
+    <string name="show_all">Show All</string>
+    <string name="all_list">ALL LIST</string>
+    <string name="fiat_list">FIAT LIST</string>
+    <string name="crypto_list">CRYPTO LIST</string>
+    <string name="no_results">No Results</string>
+    <string name="search_by_name">Search by name</string>
+    <string name="cancel">Cancel</string>
+    <string name="try_mco">Try \"MCO\"</string>
+</resources>
